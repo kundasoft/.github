@@ -1,6 +1,6 @@
 # .github
 
-Open source software used to facilitate consuming of digital applications provided by Czech Republic to their citizens.
+Open source repositories used to facilitate consuming of digital applications provided by Czech Republic to their citizens.
 
 > [!IMPORTANT]
 > No warranty!
